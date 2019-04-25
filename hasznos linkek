@@ -1,0 +1,53 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Hulladékgazdálkodási Kft.</title>
+    <link rel="shortcut icon" href="footer.jpg"/>
+    <link rel="stylesheet" type="text/css" href="beadando.css">
+</head>
+<body>
+    
+    
+    
+    <header>
+        <a href="Főoldal.html"><img src="footer.jpg"></a>
+        <h3> "Duna-Tisza Közi Hulladékgazdálkodási Kft."<h3>
+  
+    
+    </header>
+	<div id="menu">
+                <ul>
+                     <li><a href="Főoldal"><strong>Főoldal</strong></a></li>
+                    <li><a href="kapcsolat"><strong>Kapcsolatok</strong></a></li>
+                    <li><a href="regisztracio"><strong>Bejelentkezés/Regisztráció</strong></a></li>
+                    <li><a href="hasznos linkek"><strong>Hasznos Linkek</strong></a></li>
+					<li><a href="galeria"><strong>Galéria</strong></a></li>
+                    
+                </ul>
+				
+	 <div id="google">
+        <form method="get" action="http://www.google.com/search">
+            <input type="text"   name="q" size="15"axlength="255" value="Keresés az oldalon" />
+            <input type="submit" value="Google keresés" />
+        </form>
+		</div>
+		</div>
+		<div id="szoveghatter">
+		<img src="fak.jpg" alt="fák" align="right">
+			
+		<ul>
+		<li>
+		<p><h1><strong>Linkek</strong></h1></p>
+		<li><br><h3>Környezetvédelmi és Vízügyi Minisztérium: <a href="http://www.kvvm.hu/" target="_blank" title="http://www.kvvm.hu">www.kvvm.hu</a> </h3></br>
+		<br><h3>Állami Népegészségügyi és Tisztiorvosi Szolgálat: <a href="http://www.antsz.hu" target="_blank" title="http://www.antsz.hu"> www.antsz.hu</a> </h3></br>
+		<br><h3> Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség:<a href="http://www.kotikvf.kvvm.hu" target="_blank" title="http://www.kotikvf.kvvm.hu">www.kotikvf.kvvm.hu</a> </h3></br>
+		<br><h3>Köztisztasági Egyesülés:<a href="http://www.koztegy.hu" target="_blank" title="http://www.koztegy.hu">www.koztegy.hu</a> </h3></br>
+		
+		
+		
+		</li>
+		 </ul>
+		
+		</body>
+		
+	</html>
